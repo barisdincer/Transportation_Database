@@ -1,5 +1,3 @@
-# Transportation_Database
- 
 ## Problem Definition
  In our modern world, people use a lot of vehicles for different purposes like transformation, logistic etc. The automotive sector started with the invention of steam engine in 19 centuries, vehicles became an important part of human life. First vehicles used steam power and after that the gasoline used for energy in internal combustion engines. There were 250.000 cars in 1907 and with the invention of Ford Model T this number increased 500.000 in 1914.  After the World War 2, the automotive sector became one of the most important sectors and today’s world there are 1.440 billion cars in the world that are used actively. 96% percentage of these car use fossil fuels. The fossil fuels have some effects on environment like CO2 emissions (Volti, 2006).
  With the combustion of carbon and respiration of living creatures, CO2 formed. Emissions means that release this gas into atmosphere in specific area and period. CO2 also known as greenhouse gases. Burning the fossil fuels is the most important cause of CO2 emissions. 
@@ -26,3 +24,6 @@ Afterwards, we had a long discussion on how to develop our project and started d
 4.	Entities are identified
 5.	The diagram is drawn
 6.	The report is finalized
+---
+![Er Diagram](https://github.com/barisdincer/Transportation_Database/blob/main/pictures/ER_Diagram.png)
+---
