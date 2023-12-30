@@ -25,6 +25,3 @@ Afterwards, we had a long discussion on how to develop our project and started d
 5.	The diagram is drawn
 6.	The report is finalized
 ---
-## ER Diagram
-![Er Diagram](https://github.com/barisdincer/Transportation_Database/blob/main/pictures/ER_Diagram.png)
----
